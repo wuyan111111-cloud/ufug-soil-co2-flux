@@ -1,0 +1,45 @@
+﻿CSU,Plant_background,Treatment,Window,LogRatio,percent_change
+AR×ND,Acer palmatum × Nandina domestica,DCD,July,-0.1385725069622522,-12.939987558978183
+AR×ND,Acer palmatum × Nandina domestica,DCD,October,-0.10315947881900678,-9.801688519129803
+AR×ND,Acer palmatum × Nandina domestica,Biochar,July,-0.17297387864444871,-15.884041321370468
+AR×ND,Acer palmatum × Nandina domestica,Biochar,October,-0.1997345170592348,-18.105185901888298
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,DCD,July,-0.03182046296879452,-3.1319519514218186
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,DCD,October,-0.12115663979172071,-11.410481771270465
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,Biochar,July,-0.11715302514313179,-11.055092532305933
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,Biochar,October,-0.1731613943165011,-15.899812903136834
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,DCD,July,-0.10428325939249662,-9.902994695715496
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,DCD,October,-0.16793950810728667,-15.45950267151489
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,Biochar,July,-0.2225060707611286,-19.9489852970406
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,Biochar,October,-0.19640658929159563,-17.832191875778637
+GYL×ND,Magnolia grandiflora × Nandina domestica,DCD,July,-0.25098023132559094,-22.19622478180696
+GYL×ND,Magnolia grandiflora × Nandina domestica,DCD,October,-0.04151148399369501,-4.066168175698581
+GYL×ND,Magnolia grandiflora × Nandina domestica,Biochar,July,-0.24988809391579903,-22.111205950595703
+GYL×ND,Magnolia grandiflora × Nandina domestica,Biochar,October,-0.12962309984942302,-12.157355240310475
+Lawn,Managed lawn (turf species not recorded),DCD,July,-0.2490358382409268,-22.04479648895752
+Lawn,Managed lawn (turf species not recorded),DCD,October,-0.12512521410211766,-11.761359155482676
+Lawn,Managed lawn (turf species not recorded),Biochar,July,-0.5066493530739954,-39.748899792219106
+Lawn,Managed lawn (turf species not recorded),Biochar,October,-0.3408180740175924,-28.88117199354707
+NZE,Ligustrum lucidum × Iris tectorum,DCD,July,-0.21160141197973645,-19.07127945266097
+NZE,Ligustrum lucidum × Iris tectorum,DCD,October,-0.11934223229344444,-11.249598375244197
+NZE,Ligustrum lucidum × Iris tectorum,Biochar,July,-0.21030374538387098,-18.966192786378933
+NZE,Ligustrum lucidum × Iris tectorum,Biochar,October,-0.2564437204120684,-22.620145760285816
+OF×RC,Osmanthus fragrans × Rosa chinensis,DCD,July,-0.40276796622683264,-33.15328117061366
+OF×RC,Osmanthus fragrans × Rosa chinensis,DCD,October,-0.3721137228666899,-31.072414835889983
+OF×RC,Osmanthus fragrans × Rosa chinensis,Biochar,July,-0.3603548767454064,-30.25712191063008
+OF×RC,Osmanthus fragrans × Rosa chinensis,Biochar,October,-0.24058485787626724,-21.383206992344128
+PB,Pinus bungeana,DCD,July,0.05788900327861188,5.959737734790482
+PB,Pinus bungeana,DCD,October,-0.06502625313299779,-6.295713725641727
+PB,Pinus bungeana,Biochar,July,-0.03214268343712163,-3.1631597910576015
+PB,Pinus bungeana,Biochar,October,-0.08838496326625839,-8.459158972721859
+PG,Phyllostachys glauca,DCD,July,-0.18354590806907392,-16.768633505241194
+PG,Phyllostachys glauca,DCD,October,-0.027405414135351164,-2.7033292901459727
+PG,Phyllostachys glauca,Biochar,July,-0.168675864386762,-15.521731683419027
+PG,Phyllostachys glauca,Biochar,October,-0.09601842157235779,-9.155271911275564
+SJ,Styphnolobium japonicum,DCD,July,-0.14744862151305968,-13.709322797321644
+SJ,Styphnolobium japonicum,DCD,October,-0.18868758479035588,-17.195483980869742
+SJ,Styphnolobium japonicum,Biochar,July,-0.28234417982316584,-24.598587657986105
+SJ,Styphnolobium japonicum,Biochar,October,-0.14337493606984533,-13.357084755337068
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,DCD,July,-0.27921967044079565,-24.362626798685262
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,DCD,October,-0.049411669254050224,-4.821077332413159
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,Biochar,July,-0.3115307908118771,-26.767493872497806
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,Biochar,October,-0.1385842846112915,-12.941012915211914

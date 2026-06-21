@@ -1,0 +1,133 @@
+﻿CSU,Plant_background,Block,BlockID,Window,Treatment,TreatmentFlux,CKFlux,LogRatio
+AR×ND,Acer palmatum × Nandina domestica,1,AR×ND:B1,July,DCD,236.6,340.5,-0.3640441740452806
+AR×ND,Acer palmatum × Nandina domestica,1,AR×ND:B1,July,Biochar,266.8,340.5,-0.2439158115480983
+AR×ND,Acer palmatum × Nandina domestica,1,AR×ND:B1,October,DCD,42.1,40.0,0.051168286574399424
+AR×ND,Acer palmatum × Nandina domestica,1,AR×ND:B1,October,Biochar,35.3,40.0,-0.12499649017468527
+AR×ND,Acer palmatum × Nandina domestica,2,AR×ND:B2,July,DCD,291.2,250.3,0.15135011788480235
+AR×ND,Acer palmatum × Nandina domestica,2,AR×ND:B2,July,Biochar,202.5,250.3,-0.21192031189113467
+AR×ND,Acer palmatum × Nandina domestica,2,AR×ND:B2,October,DCD,32.0,49.3,-0.43218817824891786
+AR×ND,Acer palmatum × Nandina domestica,2,AR×ND:B2,October,Biochar,38.4,49.3,-0.24986662145496327
+AR×ND,Acer palmatum × Nandina domestica,3,AR×ND:B3,July,DCD,247.0,302.6,-0.20302346472627839
+AR×ND,Acer palmatum × Nandina domestica,3,AR×ND:B3,July,Biochar,284.1,302.6,-0.06308551249411325
+AR×ND,Acer palmatum × Nandina domestica,3,AR×ND:B3,October,DCD,44.9,41.8,0.07154145521749808
+AR×ND,Acer palmatum × Nandina domestica,3,AR×ND:B3,October,Biochar,33.4,41.8,-0.22434043954805583
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,1,GB×CH:B1,July,DCD,243.4,212.5,0.13576419218895527
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,1,GB×CH:B1,July,Biochar,178.4,212.5,-0.17491376821856255
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,1,GB×CH:B1,October,DCD,27.3,38.6,-0.3463655742798712
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,1,GB×CH:B1,October,Biochar,30.2,38.6,-0.24541035208996123
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,2,GB×CH:B2,July,DCD,178.9,242.6,-0.3045870059952762
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,2,GB×CH:B2,July,Biochar,219.5,242.6,-0.10006176399472372
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,2,GB×CH:B2,October,DCD,33.6,28.4,0.16813692180199835
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,2,GB×CH:B2,October,Biochar,23.0,28.4,-0.21089492923801062
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,3,GB×CH:B3,July,DCD,216.3,201.0,0.0733614248999374
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,3,GB×CH:B3,July,Biochar,186.2,201.0,-0.07648354321610908
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,3,GB×CH:B3,October,DCD,28.5,34.3,-0.18524126689728931
+GB×CH,Ginkgo biloba × Cotoneaster horizontalis,3,GB×CH:B3,October,Biochar,32.2,34.3,-0.06317890162153145
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,1,GYL×EF:B1,July,DCD,170.6,158.1,0.07609389084215244
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,1,GYL×EF:B1,July,Biochar,114.8,158.1,-0.32003626032996035
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,1,GYL×EF:B1,October,DCD,41.8,65.3,-0.44609569675167476
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,1,GYL×EF:B1,October,Biochar,47.7,65.3,-0.31406063838808973
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,2,GYL×EF:B2,July,DCD,119.9,171.7,-0.35909070586996117
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,2,GYL×EF:B2,July,Biochar,149.6,171.7,-0.13778370236305298
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,2,GYL×EF:B2,October,DCD,54.5,45.9,0.17173558460269897
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,2,GYL×EF:B2,October,Biochar,36.5,45.9,-0.2291528564780536
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,3,GYL×EF:B3,July,DCD,145.2,149.6,-0.02985296314968116
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,3,GYL×EF:B3,July,Biochar,121.3,149.6,-0.20969824959037248
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,3,GYL×EF:B3,October,DCD,44.2,55.6,-0.22945841217288418
+GYL×EF,Magnolia grandiflora × Euonymus fortunei,3,GYL×EF:B3,October,Biochar,53.1,55.6,-0.0460062730086436
+GYL×ND,Magnolia grandiflora × Nandina domestica,1,GYL×ND:B1,July,DCD,92.9,129.3,-0.33061163995801895
+GYL×ND,Magnolia grandiflora × Nandina domestica,1,GYL×ND:B1,July,Biochar,110.0,129.3,-0.16165491998539563
+GYL×ND,Magnolia grandiflora × Nandina domestica,1,GYL×ND:B1,October,DCD,38.6,34.0,0.12689175185462376
+GYL×ND,Magnolia grandiflora × Nandina domestica,1,GYL×ND:B1,October,Biochar,28.2,34.0,-0.18703854667209355
+GYL×ND,Magnolia grandiflora × Nandina domestica,2,GYL×ND:B2,July,DCD,106.1,98.8,0.07128444086611527
+GYL×ND,Magnolia grandiflora × Nandina domestica,2,GYL×ND:B2,July,Biochar,80.8,98.8,-0.2011206392267725
+GYL×ND,Magnolia grandiflora × Nandina domestica,2,GYL×ND:B2,October,DCD,28.4,38.9,-0.31460510545724024
+GYL×ND,Magnolia grandiflora × Nandina domestica,2,GYL×ND:B2,October,Biochar,34.7,38.9,-0.11425456367158693
+GYL×ND,Magnolia grandiflora × Nandina domestica,3,GYL×ND:B3,July,DCD,87.9,144.0,-0.4936134948848692
+GYL×ND,Magnolia grandiflora × Nandina domestica,3,GYL×ND:B3,July,Biochar,97.8,144.0,-0.38688872253522893
+GYL×ND,Magnolia grandiflora × Nandina domestica,3,GYL×ND:B3,October,DCD,34.3,32.2,0.06317890162153146
+GYL×ND,Magnolia grandiflora × Nandina domestica,3,GYL×ND:B3,October,Biochar,29.5,32.2,-0.0875761892045886
+Lawn,Managed lawn (turf species not recorded),1,Lawn:B1,July,DCD,182.0,292.5,-0.4744579795951158
+Lawn,Managed lawn (turf species not recorded),1,Lawn:B1,July,Biochar,164.2,292.5,-0.5773794696535834
+Lawn,Managed lawn (turf species not recorded),1,Lawn:B1,October,DCD,63.7,61.9,0.028664382887567282
+Lawn,Managed lawn (turf species not recorded),1,Lawn:B1,October,Biochar,47.4,61.9,-0.2668979509895197
+Lawn,Managed lawn (turf species not recorded),2,Lawn:B2,July,DCD,224.0,215.0,0.04100802372737704
+Lawn,Managed lawn (turf species not recorded),2,Lawn:B2,July,Biochar,124.6,215.0,-0.5455294217743101
+Lawn,Managed lawn (turf species not recorded),2,Lawn:B2,October,DCD,48.4,76.2,-0.4538616489700147
+Lawn,Managed lawn (turf species not recorded),2,Lawn:B2,October,Biochar,51.5,76.2,-0.3917796550229102
+Lawn,Managed lawn (turf species not recorded),3,Lawn:B3,July,DCD,190.0,260.0,-0.31365755885504165
+Lawn,Managed lawn (turf species not recorded),3,Lawn:B3,July,Biochar,174.8,260.0,-0.39703916779409254
+Lawn,Managed lawn (turf species not recorded),3,Lawn:B3,October,DCD,67.9,64.6,0.04982162377609441
+Lawn,Managed lawn (turf species not recorded),3,Lawn:B3,October,Biochar,44.9,64.6,-0.3637766160403475
+NZE,Ligustrum lucidum × Iris tectorum,1,NZE:B1,July,DCD,204.7,334.0,-0.4895955003094567
+NZE,Ligustrum lucidum × Iris tectorum,1,NZE:B1,July,Biochar,240.6,334.0,-0.328005189436122
+NZE,Ligustrum lucidum × Iris tectorum,1,NZE:B1,October,DCD,29.7,28.5,0.041242958534049
+NZE,Ligustrum lucidum × Iris tectorum,1,NZE:B1,October,Biochar,23.9,28.5,-0.17602562833713992
+NZE,Ligustrum lucidum × Iris tectorum,2,NZE:B2,July,DCD,266.8,234.6,0.12861737782209373
+NZE,Ligustrum lucidum × Iris tectorum,2,NZE:B2,July,Biochar,183.9,234.6,-0.2434898046090997
+NZE,Ligustrum lucidum × Iris tectorum,2,NZE:B2,October,DCD,22.7,37.1,-0.49125204512603243
+NZE,Ligustrum lucidum × Iris tectorum,2,NZE:B2,October,Biochar,27.3,37.1,-0.3067302674224755
+NZE,Ligustrum lucidum × Iris tectorum,3,NZE:B3,July,DCD,216.2,284.3,-0.2738261134518463
+NZE,Ligustrum lucidum × Iris tectorum,3,NZE:B3,July,Biochar,267.9,284.3,-0.05941624210639121
+NZE,Ligustrum lucidum × Iris tectorum,3,NZE:B3,October,DCD,33.0,30.1,0.09198238971165006
+NZE,Ligustrum lucidum × Iris tectorum,3,NZE:B3,October,Biochar,22.6,30.1,-0.2865752654765898
+OF×RC,Osmanthus fragrans × Rosa chinensis,1,OF×RC:B1,July,DCD,28.6,36.5,-0.2439055427626389
+OF×RC,Osmanthus fragrans × Rosa chinensis,1,OF×RC:B1,July,Biochar,27.6,36.5,-0.2794964878653415
+OF×RC,Osmanthus fragrans × Rosa chinensis,1,OF×RC:B1,October,DCD,30.4,47.7,-0.4504887894821197
+OF×RC,Osmanthus fragrans × Rosa chinensis,1,OF×RC:B1,October,Biochar,41.0,47.7,-0.15135933118998773
+OF×RC,Osmanthus fragrans × Rosa chinensis,2,OF×RC:B2,July,DCD,21.9,47.6,-0.7763461244149192
+OF×RC,Osmanthus fragrans × Rosa chinensis,2,OF×RC:B2,July,Biochar,31.5,47.6,-0.41284521540578695
+OF×RC,Osmanthus fragrans × Rosa chinensis,2,OF×RC:B2,October,DCD,34.7,36.5,-0.050572573635632216
+OF×RC,Osmanthus fragrans × Rosa chinensis,2,OF×RC:B2,October,Biochar,30.1,36.5,-0.1927870888336157
+OF×RC,Osmanthus fragrans × Rosa chinensis,3,OF×RC:B3,July,DCD,31.9,38.5,-0.18805223150293973
+OF×RC,Osmanthus fragrans × Rosa chinensis,3,OF×RC:B3,July,Biochar,26.1,38.5,-0.3887229269650908
+OF×RC,Osmanthus fragrans × Rosa chinensis,3,OF×RC:B3,October,DCD,28.7,53.1,-0.6152798054823178
+OF×RC,Osmanthus fragrans × Rosa chinensis,3,OF×RC:B3,October,Biochar,36.4,53.1,-0.3776081536051983
+PB,Pinus bungeana,1,PB:B1,July,DCD,144.0,113.5,0.23801046265454331
+PB,Pinus bungeana,1,PB:B1,July,Biochar,99.7,113.5,-0.1296371599536647
+PB,Pinus bungeana,1,PB:B1,October,DCD,49.0,69.0,-0.3422862064866327
+PB,Pinus bungeana,1,PB:B1,October,Biochar,56.2,69.0,-0.205189747697614
+PB,Pinus bungeana,2,PB:B2,July,DCD,101.2,123.2,-0.19671029424605427
+PB,Pinus bungeana,2,PB:B2,July,Biochar,129.9,123.2,0.05295587257713438
+PB,Pinus bungeana,2,PB:B2,October,DCD,63.8,48.5,0.27418939240730666
+PB,Pinus bungeana,2,PB:B2,October,Biochar,42.9,48.5,-0.12269197200946626
+PB,Pinus bungeana,3,PB:B3,July,DCD,122.6,107.4,0.1323668414273466
+PB,Pinus bungeana,3,PB:B3,July,Biochar,105.3,107.4,-0.019746762934834558
+PB,Pinus bungeana,3,PB:B3,October,DCD,51.7,58.7,-0.1269819453196673
+PB,Pinus bungeana,3,PB:B3,October,Biochar,62.5,58.7,0.0627268299083051
+PG,Phyllostachys glauca,1,PG:B1,July,DCD,114.1,148.4,-0.26283607386525026
+PG,Phyllostachys glauca,1,PG:B1,July,Biochar,136.9,148.4,-0.08066059843887687
+PG,Phyllostachys glauca,1,PG:B1,October,DCD,55.0,47.8,0.14030754573506077
+PG,Phyllostachys glauca,1,PG:B1,October,Biochar,41.0,47.8,-0.1534535727931024
+PG,Phyllostachys glauca,2,PG:B2,July,DCD,130.2,113.4,0.13815033848081698
+PG,Phyllostachys glauca,2,PG:B2,July,Biochar,100.6,113.4,-0.11976913362801299
+PG,Phyllostachys glauca,2,PG:B2,October,DCD,40.4,54.6,-0.30120409778375506
+PG,Phyllostachys glauca,2,PG:B2,October,Biochar,50.4,54.6,-0.0800427076735365
+PG,Phyllostachys glauca,3,PG:B3,July,DCD,107.9,165.2,-0.42595198882278856
+PG,Phyllostachys glauca,3,PG:B3,July,Biochar,121.7,165.2,-0.3055978610933961
+PG,Phyllostachys glauca,3,PG:B3,October,DCD,48.9,45.2,0.0786803096426408
+PG,Phyllostachys glauca,3,PG:B3,October,Biochar,42.8,45.2,-0.054558984250434484
+SJ,Styphnolobium japonicum,1,SJ:B1,July,DCD,102.6,101.9,0.006845992507989839
+SJ,Styphnolobium japonicum,1,SJ:B1,July,Biochar,82.8,101.9,-0.20756387883746527
+SJ,Styphnolobium japonicum,1,SJ:B1,October,DCD,51.2,67.0,-0.26895308734550394
+SJ,Styphnolobium japonicum,1,SJ:B1,October,Biochar,64.1,67.0,-0.04424825546434177
+SJ,Styphnolobium japonicum,2,SJ:B2,July,DCD,77.9,125.4,-0.47608267532211773
+SJ,Styphnolobium japonicum,2,SJ:B2,July,Biochar,89.9,125.4,-0.33281068672124564
+SJ,Styphnolobium japonicum,2,SJ:B2,October,DCD,55.6,50.8,0.09028684667210053
+SJ,Styphnolobium japonicum,2,SJ:B2,October,Biochar,45.1,50.8,-0.11901410807580344
+SJ,Styphnolobium japonicum,3,SJ:B3,July,DCD,109.3,106.4,0.026890818274948818
+SJ,Styphnolobium japonicum,3,SJ:B3,July,Biochar,78.3,106.4,-0.30665797391078664
+SJ,Styphnolobium japonicum,3,SJ:B3,October,DCD,48.4,71.3,-0.38739651369766426
+SJ,Styphnolobium japonicum,3,SJ:B3,October,Biochar,54.6,71.3,-0.26686244466939085
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,1,SJ×JN:B1,July,DCD,67.9,97.2,-0.3587346769017429
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,1,SJ×JN:B1,July,Biochar,78.7,97.2,-0.21112755604303585
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,1,SJ×JN:B1,October,DCD,42.4,37.2,0.1308396009588111
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,1,SJ×JN:B1,October,Biochar,29.4,37.2,-0.23531408693446512
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,2,SJ×JN:B2,July,DCD,73.7,73.8,-0.0013559324111358441
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,2,SJ×JN:B2,July,Biochar,55.3,73.8,-0.2885858230781377
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,2,SJ×JN:B2,October,DCD,29.8,40.4,-0.30432139145574566
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,2,SJ×JN:B2,October,Biochar,38.3,40.4,-0.05337988878050413
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,3,SJ×JN:B3,July,DCD,64.2,103.5,-0.4775684020095082
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,3,SJ×JN:B3,July,Biochar,67.0,103.5,-0.43487899331445773
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,3,SJ×JN:B3,October,DCD,36.1,35.2,0.02524678273478389
+SJ×JN,Styphnolobium japonicum × Jasminum nudiflorum,3,SJ×JN:B3,October,Biochar,31.0,35.2,-0.12705887811890523

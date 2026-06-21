@@ -1,0 +1,9 @@
+﻿Check,Observed,Criterion
+Rows,198.0,198
+Unique Collars,99.0,99
+Unique CSUs,11.0,11
+Unique blocks,33.0,33
+Missing required fields,0.0,0
+Duplicate Collar × window,0.0,0
+Minimum flux,21.9,positive
+Maximum flux,340.5,observed range

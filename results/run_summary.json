@@ -1,0 +1,18 @@
+{
+  "input_file": "original_data_user.xlsx",
+  "n_original": 198,
+  "n_collars": 99,
+  "n_csus": 11,
+  "n_blocks": 33,
+  "n_paired_effects": 132,
+  "formula": "LogRatio ~ 0 + C(Treatment):C(Window)",
+  "primary_cluster": "CSU",
+  "primary_df": 10,
+  "sensitivity_cluster": "BlockID",
+  "sensitivity_df": 32,
+  "python": "3.12.10",
+  "numpy": "2.2.4",
+  "pandas": "2.2.3",
+  "scipy": "1.17.1",
+  "statsmodels": "0.14.6"
+}
