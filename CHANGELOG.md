@@ -12,5 +12,7 @@
 - Adds descriptive CSU-level window-specific and across-window summaries.
 - Generates Figure 1, Figure 2, and Supplementary Figure S1.
 
-The release date and links should be added when the public repository is
-created.
+Released on 2026-06-21:
+
+- Repository: https://github.com/wuyan111111-cloud/ufug-soil-co2-flux
+- Release: https://github.com/wuyan111111-cloud/ufug-soil-co2-flux/releases/tag/v1.0.0
